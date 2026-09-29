@@ -1,5 +1,9 @@
 # Recyclable Waste Classification with CNNs and ResNet18
 
+## Dataset Link
+https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification
+
+
 A computer vision project for classifying recyclable drinking waste using PyTorch.
 
 The project compares a custom convolutional neural network with a pre-trained ResNet18 model and investigates the effect of class imbalance, additional real-world data collection, and data augmentation on classification performance.
