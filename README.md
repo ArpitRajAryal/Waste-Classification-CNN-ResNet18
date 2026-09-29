@@ -1,8 +1,18 @@
 # Recyclable Waste Classification with CNNs and ResNet18
 
-## Dataset Link
-https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification
+## Dataset
 
+The original image dataset used in this project is the
+[Drinking Waste Classification dataset on Kaggle](https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification).
+
+The dataset contains images of four recyclable drinking-waste categories:
+
+- Aluminium cans (AluCan)
+- Glass
+- HDPE milk bottles (HDPEM)
+- PET bottles
+
+The original image files are not redistributed in this repository. The CSV files contain the dataset partitions used for training, validation and testing.
 
 A computer vision project for classifying recyclable drinking waste using PyTorch.
 
